@@ -3,18 +3,12 @@
 
 int main(void) {
 
-    int a,b;
-    a=2;
-    b=3;
+    int fd;
+    char buf[256];
+    memset(buf,0,256);
+    strcpy(buf,"hello world");
+    fd=open("./a.txt",O_RDWR||O_CREAT,0666);
 
-    if(a>b) {
-    
-        printf("a>b\n");
-    }else {
-        
-        printf("a<=b\n");
-    }
-    printf("hello world\n");
-    printf("hello GitHub\n");
+    write(fd,buf,strlen(buf));
     return 0;
 }
