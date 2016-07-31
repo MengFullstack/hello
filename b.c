@@ -14,5 +14,6 @@ int main(void) {
         
         printf("a<=b\n");
     }
+    printf("hello world\n");
     return 0;
 }
