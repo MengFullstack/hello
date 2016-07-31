@@ -15,5 +15,6 @@ int main(void) {
         printf("a<=b\n");
     }
     printf("hello world\n");
+    printf("hello GitHub\n");
     return 0;
 }
