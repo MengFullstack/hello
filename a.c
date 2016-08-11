@@ -5,6 +5,7 @@ int main(void) {
     
     int i=0;
     for(i=0;i<100;i++) {
+        printf("wish you good luck!\n");
         printf("rand=%d , ",rand()%100);
     }
     printf("\n");
