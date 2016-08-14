@@ -11,5 +11,6 @@ int main(void) {
     printf("\n");
     printf("rand numbers\n");
     printf("The World is big\n");
+    printf("American is a great country\n");
     return 0;
 }
