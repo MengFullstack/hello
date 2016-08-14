@@ -12,6 +12,7 @@ int main(void) {
     printf("rand numbers\n");
     printf("I like China!\n");
     printf("The World is big\n");
-    printf("American movies is goodlooking\n");
+   printf("American movies is goodlooking\n");
+    printf("American is a great country\n");
     return 0;
 }
