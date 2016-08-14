@@ -9,5 +9,6 @@ int main(void) {
         printf("rand=%d , ",rand()%100);
     }
     printf("\n");
+    printf("rand numbers\n");
     return 0;
 }
