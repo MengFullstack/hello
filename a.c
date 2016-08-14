@@ -10,5 +10,6 @@ int main(void) {
     }
     printf("\n");
     printf("rand numbers\n");
+    printf("The World is big\n");
     return 0;
 }
