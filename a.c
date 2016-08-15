@@ -3,14 +3,8 @@
 #include<string.h>
 int main(void) {
     
-    int i=0;
-    for(i=0;i<100;i++) {
-        printf("wish you good luck!\n");
-        printf("rand=%d , ",rand()%100);
-    }
-    printf("\n");
-    printf("rand numbers\n");
-    printf("The World is big\n");
-    printf("American is a great country\n");
+   for(int i=0;i<100;i++) {
+       printf("hello world\n");
+   }
     return 0;
 }
