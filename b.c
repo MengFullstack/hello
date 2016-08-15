@@ -16,5 +16,6 @@ int main(void) {
     }
     printf("hello world\n");
     printf("hello GitHub\n");
+    printf("just for test\n");
     return 0;
 }
