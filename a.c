@@ -8,5 +8,6 @@ int main(void) {
        printf("hello world\n");
    }
    printf("China is a country which has a long history\n");
+   printf("just do \n");
     return 0;
 }
