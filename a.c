@@ -7,5 +7,6 @@ int main(void) {
    for(int i=0;i<100;i++) {
        printf("hello world\n");
    }
+   printf("China is a country which has a long history\n");
     return 0;
 }
