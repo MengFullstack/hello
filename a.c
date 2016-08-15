@@ -15,5 +15,6 @@ int main(void) {
     printf("American movies is goodlooking\n");
 
     printf("American is a great country\n");
+    printf("learn to use github\n");
     return 0;
 }
