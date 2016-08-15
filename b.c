@@ -17,5 +17,6 @@ int main(void) {
     printf("hello world\n");
     printf("hello GitHub\n");
     printf("just for test\n");
+    printf("America is greate country\n");
     return 0;
 }
